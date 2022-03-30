@@ -1,0 +1,7 @@
+{
+    "secret": "123mudar",
+    "refreshTokenSecret": "mudar321",
+    "port": 3000,
+    "tokenLife": 60,
+    "refreshTokenLife": 86400
+}
